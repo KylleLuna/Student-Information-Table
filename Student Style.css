@@ -1,0 +1,13 @@
+h1, p {
+    text-align: Center;
+}
+
+th, td {
+    border: 3px solid gray;
+    border-collapse: collapse;
+    background-color: blanchedalmond;
+    border-radius: 5px;
+    border-style: dotted;
+    border-color: cornflowerblue;
+    text-align: center;
+}
